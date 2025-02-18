@@ -2,7 +2,9 @@
   "version": 1,
   "rules": [
     {
-      "domain": "speed.cloudflare.com",
+      "domain": [
+        "speed.cloudflare.com"
+      ]
     }
   ]
 }
