@@ -1,14 +1,14 @@
-#域名匹配Speed Test by Cloudflare
+# 域名匹配 Speed Test by Cloudflare
 DOMAIN,speed.cloudflare.com
 
-#域名后缀匹配Speedtest by Ookla
+# 域名后缀匹配 Speedtest by Ookla
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.dler.io
-#域名关键词匹配
+# 域名关键词匹配
 DOMAIN-KEYWORD,speedtest
 
-#Speed Test by Cloudflare
+# Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
 
-#Fast
+# Fast
 DOMAIN-SUFFIX,fast.com
