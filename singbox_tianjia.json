@@ -3,10 +3,6 @@
   "rules": [
     {
       "domain": "speed.cloudflare.com",
-      "domain_suffix": [
-        "0000t0000rrrrb1b555ddd77.cc",
-        "006000000rrrr2bb555ddd77.kk"
-      ],
     }
   ]
 }
