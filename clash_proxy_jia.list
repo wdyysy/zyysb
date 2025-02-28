@@ -14,7 +14,10 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
- raw.githubusercontent.com
+#域名匹配
+DOMAIN,raw.githubusercontent.com
+#域名段匹配
+DOMAIN-KEYWORD,githubusercontent
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
