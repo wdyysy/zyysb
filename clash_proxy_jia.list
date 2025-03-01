@@ -15,9 +15,9 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 #域名匹配
-DOMAIN,raw.githubusercontent.com
+#DOMAIN,raw.githubusercontent.com
 ## 域名关键词匹配
-DOMAIN-KEYWORD,githubusercontent
+#DOMAIN-KEYWORD,githubusercontent
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
